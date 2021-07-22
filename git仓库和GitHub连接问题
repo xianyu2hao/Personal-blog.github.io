@@ -27,3 +27,6 @@ Please make sure you have the correct access right and the repository exists.说
 此时输入：git remote -v 显示：origin  git@github.com:dustdawn/test.git (fetch) 和origin  git@github.com:dustdawn/test.git (push)，表明你的本地仓库和这个地址相连
 ，这和你的仓库不一样肯定连不上，如更改后面的git@github.com:dustdawn/test.git类似文档，这时候输入：git remote set-url origin "远程仓库的地址"，# 远程仓库地址在你登陆的github上
 选择woxiangxue仓库，进入后很容易发现一个地址，点击SSH然后复制这个地址替换“远程仓库地址”（回车）就行了。再次输入：git push -u origin master 回车，成功连接，去github查看测试文件。
+
+#再次提交文件时，遇到! [rejected] master -> master (fetch first) error: failed to push some refs to ' 。。。'，此时出现这个问题是因为github中的README.md文件不在本地代码目录中
+，可以通过如下命令进行代码合并，输入：git pull --rebase origin master 回车，再次提交即可。
