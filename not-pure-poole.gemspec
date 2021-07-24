@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Mark Otto", "Songzi Vong"]
   spec.email         = ["markdotto@gmail.com", "vszhub@gmail.com"]
 
-  spec.summary       = "A simple, beautiful, and powerful Jekyll theme for blogs."
+  spec.summary       = "一个简单漂亮和能量的捷尔克主题的博客."
   spec.homepage      = "https://github.com/vszhub/not-pure-jekyll"
   spec.license       = "MIT"
 
