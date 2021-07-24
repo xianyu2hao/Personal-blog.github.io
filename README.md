@@ -1,10 +1,10 @@
-# Not Pure Poole <!-- omit in toc -->
+# "欢迎来到我的博客" <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
   <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**我的个人博客** 是一个简单, 漂亮, 和一个花里胡哨的 Jekyll主题 博客。 它是建立于 [Poole](https://github.com/poole/poole) 和 [Pure](https://purecss.io/).
 
 > Poole explains that Jekyll has been asking for a particular chemical for days now but every time it has been fetched for him he rejects it as **not pure**. Poole also explains that he caught a glimpse of the man inside and he looked barely human.
 >
@@ -113,9 +113,9 @@ Then, apply the theme by adding `data-theme="blue"` to the `<html>` element.
 You can create a file `_data/navigation.yml` to configure links to some pages. For example,
 
 ```yml
-- title: Blog
+- title: 博客
   url: /
-- title: About
+- title: 个人简介
   url: /about/
 ```
 
@@ -138,9 +138,9 @@ You can set your social links in `_data/social.yml`. You can custom titles, URLs
 - title: Email
   url: mailto://vszhub@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: Tenxun QQ
+  url: https://im.qq.com/index
+  icon: fab fa-tencentQQ
 - title: GitHub
   url: https://github.com/vszhub/not-pure-poole
   icon: fab fa-github
@@ -152,13 +152,13 @@ Not Pure Poole supports posts archive by date, categories, and tags. For enablin
 
 ```yml
 - type: dates
-  title: Dates
+  title: 日期
   url: /dates/
 - type: categories
-  title: Categories
+  title: 目录类别
   url: /categories/
 - type: tags
-  title: Tags
+  title: 标签
   url: /tags/
 ```
 
