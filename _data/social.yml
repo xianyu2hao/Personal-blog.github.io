@@ -3,7 +3,7 @@
   icon: fas fa-envelope
 - title: TencentQQ
   url: https://im.qq.com/index
-  icon: fa-qq
+  icon:  fab fa-qq
 - title: GitHub
   url: https://github.com/vszhub/not-pure-poole
   icon: fab fa-github

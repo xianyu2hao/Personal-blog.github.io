@@ -140,7 +140,7 @@ You can set your social links in `_data/social.yml`. You can custom titles, URLs
   icon: fas fa-envelope
 - title: Tenxun QQ
   url: https://im.qq.com/index
-  icon: fab fa-tencentQQ
+  icon: fab fa-qq
 - title: GitHub
   url: https://github.com/vszhub/not-pure-poole
   icon: fab fa-github
