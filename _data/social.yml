@@ -1,9 +1,12 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://3148541956@qq.com
   icon: fas fa-envelope
 - title: TencentQQ
   url: https://im.qq.com/index
   icon:  fab fa-qq
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/xianyu2hao/Personal-blog.github.io
   icon: fab fa-github
+- title: WeChat public account
+  url: https://mp.weixin.qq.com/s/M7UFND0ZSxrNIApOmlK6Bg
+  icon: fab fa-unlink
