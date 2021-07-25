@@ -161,7 +161,7 @@ toc:  true
 
 Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
 
-### 美丽图画
+### 美丽山河
 
 欣赏大自然的美景，领略祖国的风景，奇石、险峰、丛林等都需要感受，直至看山还是山的境界
 
@@ -173,7 +173,7 @@ Align to the center by adding `class="align-center"`:
 
 ![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
 
-### 自学表格
+### 自学目录
 
 本人自学软件测试：主要学习以下内容.
 
