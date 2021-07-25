@@ -174,7 +174,7 @@ toc:  true
 ![placeholder](http://placehold.it/400x200 "Medium example image")
 ![placeholder](http://placehold.it/200x200 "Small example image")
 
-Align to the center by adding `class="align-center"`:
+[comment]: <> (Align to the center by adding `class="align-center"`:)
 
 ![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
 
