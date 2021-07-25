@@ -50,13 +50,11 @@ sass:
 # google_analytics: UA-000000-0
 
 # Replace this value and uncomment to enable Disqus
-disqus: 评论
-  valine
-  AppID: WcASphxPptHB3pFPrqx8jxgo-MdYXbMMI
-AppKey: qMtHHLzWAAyoTIoMwWOy3NA4
+ disqus: xxxxxx
+
 
 # Specify the author for blog posts
-author: Jery Zhang
+author: Jery zhang
   name: null
   url: https://xianyu2hao.github.io
   email: 3148541956@qq.com
