@@ -51,6 +51,7 @@ sass:
 
 # Replace this value and uncomment to enable Disqus
  disqus: xxxxxx
+valine:
 
 
 # Specify the author for blog posts
