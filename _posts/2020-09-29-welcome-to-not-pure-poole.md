@@ -17,10 +17,9 @@ toc:  true
 
 希望大家幸福安康又快乐，感谢大家捧场啦，祝您玩的愉快！.
 
-## Inline HTML elements
+## 此处是测试区
 
-HTML 定义了一长串可用的内联标签，完整的列表可以在[Mozilla Developer Network]上找到(https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
+这是是测试用的，感觉可以用，舒服了
 [comment]: <> (- **To bold text**, use `<strong>`.)
 
 [comment]: <> (- *To italicize text*, use `<em>`.)
@@ -52,55 +51,102 @@ HTML 定义了一长串可用的内联标签，完整的列表可以在[Mozilla 
 老婆：当然是真的，你希望是男孩还是女孩。
 老公：是我自己的就好了。
 ......
-## Heading
+## 科普专区
 
-头部部分，暂时我还不知道有啥作用哈，慢慢来学习
+1、兔子用腿拍打地面的动作来传递信息,用后腿拍打地面的大多数是雄兔,这是它向雌兔表达情感的一种方式。
 
-### Code
+2、世界上最大的猴是狒狒,最小的猴子是倭狨.
 
-内联代码可用于 `<code>` 元素。 Rouge 支持多行代码片段。 需要时，较长的行将自动水平滚动。 您还可以使用代码围栏（三重反引号）来呈现代码。
+3、'四不象'真正的名字叫麋鹿,是我国的珍奇动物.
 
-{% highlight js %}
-// 示例可以直接在您的 JavaScript 控制台中运行
+4、冰糕为什么会冒气？
 
-// 创建一个函数，它接受两个参数并返回这些参数的总和
-var adder = new Function("a", "b", "return a + b");
+冰糕冒气是因为外界空气中有不少眼睛看不见的水汽，碰到很冷的冰糕时，一遇冷就液化成雾滴包围在冰糕周围，看上去似乎是冰糕在“冒气”一样。
 
-// 调用函数
-加法器(2, 6);
-// > 8
-{% endhighlight %}
+5、向日葵为什么总是向着太阳?
 
-您还可以选择显示带有行号的代码片段。 将 `linenos` 添加到 Rouge 标签。
+向日葵的茎部含有一种奇妙的植物生长素。这种生长素非常怕光。一遇光线照射，它就会到背光的一面去，同时它还刺激背光一面的细胞迅速繁殖，所以，背光的一面就比向光的一面生长的快，使向日葵产生了向光性弯曲。
 
-{% highlight js linenos %}
-// 示例可以直接在你的 JavaScript 控制台中运行
+6、蝉为什么会蜕皮?
 
-// 创建一个函数，它接受两个参数并返回这些参数的总和
-var adder = new Function("a", "b", "return a + b");
+蝉的外壳（外骨骼）是坚硬的，不能随着蝉的生长而扩大，当蝉生长到一定阶段时，蝉的外骨骼限制了蝉的生长，蝉将原有的外骨骼脱去，就是蝉蜕。
 
-// 调用函数
-加法器(2, 6);
-// > 8
-{% endhighlight %}
+7、蜜蜂怎样酿蜜、
 
-仍然不知道这个语法
+蜂先把采来的花朵甜汁吐到一个空的蜂房中，到了晚上，再把甜汁吸到自己的蜜胃里进行调制，然后再吐出来，再吞进去，如此轮番吞吞吐吐，要进行100～240次，最后才酿成香甜的蜂蜜。
 
-### Lists
+8、为什么星星会一闪一闪的？
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+我们看到星闪闪，这不是因为星星本身的光度出现变化，而是与大气的遮挡有关。大气隔在我们与星星之间，当星光通过大气层时，会受到大气的密度和厚薄影响。大气不是绝对的透明，它的透明度会根据密度的不同而产生变化。所以我们在地面透过它来看星星，就会看到星星好像在闪动的样子了。
 
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
+9、为什么人会打呵欠？
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+当我们感到疲累时，体内已产生了许多的二氧化碳。当二氧化碳过多时，必须再增加氧气来平衡体内所需。因为这些残留的二氧化碳，会影响我们身体的机能活动，这时身体便会发出保护性的反应，于是就打起呵欠来。打呵欠是一种深呼吸动作，它会让我们比平常更多地吸进氧气和排出二气化碳，还做到消除疲劳的作用呢。
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+10、为什么蛇没有脚都能走路？
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+蛇的身上有很多鳞片，这是它们身上最外面的一层盔甲。鳞片不但用来保护身体，还可以是它们的「脚」。蛇向前爬行时，身体会呈S形。而每一片在S形外边的鳞片，都会翘起来，帮助蛇前进时抓住不平的路面。这些鳞片跟蛇的肌肉互相配合，并能推动身体向前爬行，所以蛇没有脚也可以走动呀！
+
+11、为什么人老了头发便会变白？
+
+我们的头发中有一种叫「黑色素」的物质，黑色素愈多头发的颜色便愈黑。而黑色素少的话，头发便会发黄或变白。人类到了老年时，身体的各种机能会逐渐衰退，色素的形成亦会愈来愈少，所以头发也会渐渐变白啊！
+
+12、为什么萤火虫会发光？
+
+萤火虫会发光因为在它们的腹部末端有发光器，发光器内充满许多含磷的发光质及发光酵素，使萤火虫能发出一闪一闪的光。萤火虫发光的目的，除了要照明之外，还有求偶、警戒、诱捕等用途。这也是它们的一种沟通的工具，不同种类萤火虫的发光方式、发光频率及颜色也会不同，它们藉此来传达不同的讯息。
+
+13、为什么肚子饿了会咕咕叫？
+
+肚子饿了便会咕噜咕噜地叫，这是因为之前吃进的食物快消化完，胃里虽然空空的，但胃中的胃液仍会继续分泌。这时候胃的收缩便会逐渐扩大，内里的液体和气体便会翻搅起来，造成咕噜咕噜的声音。下次不要再为肚子咕咕叫而感到尴尬啊！因为这是正常的生理动作呢。
+
+### 星座特点
+
+ （1）白羊座：积极乐观
+　　白羊座对于美食和美人有着满满的欲望，很有生活激情，所以不管遇到了什么挫折，乐观积极的白羊座都会简单迅速地处理好，他们一贯乐天的性格令很多人心生羡慕。
+
+ （2）金牛座：固执内向
+　　人们经常觉得金牛座慢热，实际上是他们太过于坚持己见，只要是自己不喜欢的人和事，金牛座都不会勉强自己去接触，所以性格也比较内向，不会随大流而是坚定自己的步伐。
+
+ （3）双子座：圆滑世故
+　　双子座有些时候会显得多愁善感，陷入矛盾中不可自拔，也想逃离人群找个清静的地方待着。实际上，双子座最圆滑世故，脱离世俗社会奔向自由对于他们来说不现实。
+
+ （4）巨蟹座：多愁善感
+　　巨蟹座会在人际交往的过程中尽量表现出积极向上的一面，为了不让别人感受到自己的负能量，他们很擅长伪装自己。其实，真正的巨蟹座是很多愁善感的，而且很敏感。
+
+ （5）狮子座：迷之自信
+　　真正的狮子座都拥有着迷之自信，他们坚信自己不管遇到多么难缠的局面，只要一出手就立刻能搞定。如果一个狮子座没有表现出自负的倾向，那只是在韬光养晦罢了。
+
+ （6）处女座：精明计较
+　　处女座最擅长的就是扮猪吃老虎，看似不争不抢，其实在关键利益上分毫不让。精明算计是处女座性格中的优势所在，有了这样的性格，处女座想要什么都会。
+ （7）天秤座：犹豫不决
+　　天秤座在社交圈中总是光芒万丈，让紧挨他们的人感到蓬荜生辉。永远是社交中心的天秤座其实非常优柔寡断，他们呈现出的光鲜亮丽背后是数不清楚的选择和重新选择。
+
+ （8）天蝎座：阴暗消极
+　　天蝎座总是很容易洞察世界的真相，对人性自诩非常了解，所以他们深知若是随心所欲做自己，负能量满满，一定不会招人待见。其实，天蝎座真正的性格是很消极阴暗的。
+
+  （9）射手座：放荡不羁
+　　射手座从不会刻意隐藏自己的真正性格，那样会让他们感到浑身不自在，若不能开心自由做自己，射手座会非常沮丧。因此，他们真正的性格就是放荡不羁爱自由。
+
+　（10）摩羯座：务实本分
+　　摩羯座真正的性格就是他们所呈现出来的那样，从来都不屑于伪装自己，很务实，脑袋里绝对没有任何虚幻的念头，也非常本分，不切实际的事情从来都不做。
+
+  （11）水瓶座：作天作地
+　　水瓶座真正的性格远远比他们呈现出来的还要“作”，虽然在他们看来，自己平时的行为已经特别克制了，结果还是有很多人不理解，若是完全放飞自我就是作天作地了。
+
+  （12）双鱼座：安于现状
+　　双鱼座最惧怕突如其来的变动，虽然他们很能适应环境，但是真正的性格却是安于现状，最好能够在一个安逸的环境里衣食无忧过一辈子，这是他们梦寐以求的事情。
+### 吃瓜群众
+
+吃瓜缘由： 究竟为什么我们对吃瓜如此欲罢不能？最近娱乐圈的瓜着实有些多。
+
+&nbsp;罗宾·邓巴在《梳毛、八卦及语言的进化》一书中认为，八卦的起源可以追溯到猿猴之间的社会性理毛，也就是互相为对方梳毛的行为。而在7万年前，当语言代替了梳毛之后，我们的吃瓜欲望也就此诞生了。</br>
+&nbsp;丰富的语言所带来的吃瓜欲望能让人在交流中知道谁的能力强，谁对自己有敌意，谁有更多的资源。这种小道消息足够维护一个大规模的团队，以此为依据能让自己在部落冲突中不致陷入手足无措的地步。 怪不得每当娱乐八卦接连涌现的时候，网友们都喜欢戏称“瓜田盛世”，这“盛世”背后，满足的可不就是人类基因自带的“吃瓜欲”嘛。
+
+- 东京奥运会倍举办成吐槽大会啦，有网友笑称这是”百鬼夜行“，不愧是日本。
+- 北京官方通报了”凡事件“，这个转折点，有点多啊，诈骗和敲诈以及吃瓜撞在一起。
+- 某团前女总监婚内，为小11岁男模，恶意举债200万。
+
+
 
 <dl>
   <dt>HyperText Markup Language (HTML)</dt>
@@ -115,9 +161,9 @@ Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at
 
 Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
 
-### Images
+### 美丽图画
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+欣赏大自然的美景，领略祖国的风景，奇石、险峰、丛林等都需要感受，直至看山还是山的境界
 
 ![placeholder](http://placehold.it/800x400 "Large example image")
 ![placeholder](http://placehold.it/400x200 "Medium example image")
@@ -127,48 +173,48 @@ Align to the center by adding `class="align-center"`:
 
 ![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
 
-### Tables
+### 自学表格
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+本人自学软件测试：主要学习以下内容.
 
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
+      <th>内容目录</th>
+      <th>简易程度（难/中/易）</th>
+      <th>掌握程度（掌握/熟练/熟悉/了解）</th>
     </tr>
   </thead>
   <tfoot>
     <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
+      <td>自动化</td>
+      <td>难</td>
+      <td>了解</td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
+      <td>Linux和dos</td>
+      <td>简单</td>
+      <td>熟练</td>
     </tr>
     <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
+      <td>数据库</td>
+      <td>难</td>
+      <td>熟悉</td>
     </tr>
     <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
+      <td>测试基础</td>
+      <td>难</td>
+      <td>熟悉</td>
     </tr>
   </tbody>
 </table>
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+不忘初心，虚心学习，方得始终，终有收获.
 
 -----
 
-Want to see something else added? <a href="https://github.com/vszhub/not-pure-poole/issues/new">Open an issue.</a>
+Want to see something else added? <a href="https://github.com/xianyu2hao">Open an issue.</a>
 
 [^fn-sample_footnote]: 你又可以点击这里回去了.
