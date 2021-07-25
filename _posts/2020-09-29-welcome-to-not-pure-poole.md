@@ -170,13 +170,13 @@ toc:  true
 
 欣赏大自然的美景，领略祖国的风景，奇石、险峰、丛林等都需要感受，直至看山还是山的境界
 
-![placeholder](https://github.com/xianyu2hao/Personal-blog.github.io/800x400 huatinghu.png)
-![placeholder](https://github.com/xianyu2hao/Personal-blog.github.io/400x200 huangshan.png)
-![placeholder](http://placehold.it/200x200 wenboyuan1.png)
+![花亭湖](https://github.com/xianyu2hao/Personal-blog.github.io/huatinghu.png/800x400)
+![黄山](https://github.com/xianyu2hao/Personal-blog.github.io/huangshan.png/400x200)
+![文博园](https://github.com/xianyu2hao/Personal-blog.github.io/wenboyuan1.png/200x200)
 
 [comment]: <> (Align to the center by adding `class="align-center"`:)
 
-![placeholder](https://github.com/xianyu2hao/Personal-blog.github.io wenboyuan.png){: .align-center}
+![”文博园“](https://github.com/xianyu2hao/Personal-blog.github.io/wenboyuan.png){: .align-center}
 
 
 ### 自学目录
