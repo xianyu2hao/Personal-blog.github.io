@@ -20,6 +20,7 @@ toc:  true
 ## 此处是测试区
 
 这是是测试用的，感觉可以用，舒服了
+
 [comment]: <> (- **To bold text**, use `<strong>`.)
 
 [comment]: <> (- *To italicize text*, use `<em>`.)
@@ -34,17 +35,16 @@ toc:  true
 
 [comment]: <> (- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.)
 
-大多数这些元素是由浏览器设计的，我们几乎没有修改。
-
 ## 笑话专区
 
 1、刚刚跟老公聊天，然后我说了一句：“养小蜜就要养大学生啊，纯纯很可爱呀，老公你说是不是？”
 
 老公开车回了句：“嗯！嗯？养什么小蜜！！什么大学生！！！！做为男人！只能养老婆！！！！ ”
-哼，算你反应的快！
-2、每次老婆欺负我，我脑子里便会出现两个小人，一个说：忍住，忍忍就过去了！
+</br>哼，算你反应的快！
 
-另一个说：你TM想什么呢，想造反咋的，忍祝。。
+2、每次老婆欺负我，我脑子里便会出现两个小人，一个说：忍住，忍忍就过去了！
+</br>另一个说：你TM想什么呢，想造反咋的，忍祝。。
+
 3、老婆：我怀孕了。
 
 老公：真的吗？
@@ -99,7 +99,7 @@ toc:  true
 
 肚子饿了便会咕噜咕噜地叫，这是因为之前吃进的食物快消化完，胃里虽然空空的，但胃中的胃液仍会继续分泌。这时候胃的收缩便会逐渐扩大，内里的液体和气体便会翻搅起来，造成咕噜咕噜的声音。下次不要再为肚子咕咕叫而感到尴尬啊！因为这是正常的生理动作呢。
 
-### 星座特点
+### 星座特色
 
  （1）白羊座：积极乐观
 　　白羊座对于美食和美人有着满满的欲望，很有生活激情，所以不管遇到了什么挫折，乐观积极的白羊座都会简单迅速地处理好，他们一贯乐天的性格令很多人心生羡慕。
@@ -148,18 +148,23 @@ toc:  true
 
 
 
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
+[comment]: <> (<dl>)
 
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
+[comment]: <> (  <dt>HyperText Markup Language &#40;HTML&#41;</dt>)
 
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
+[comment]: <> (  <dd>The language used to describe and define the content of a Web page</dd>)
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+[comment]: <> (  <dt>Cascading Style Sheets &#40;CSS&#41;</dt>)
+
+[comment]: <> (  <dd>Used to describe the appearance of Web content</dd>)
+
+[comment]: <> (  <dt>JavaScript &#40;JS&#41;</dt>)
+
+[comment]: <> (  <dd>The programming language used to build advanced Web sites and applications</dd>)
+
+[comment]: <> (</dl>)
+
+[comment]: <> (Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.)
 
 ### 美丽山河
 
