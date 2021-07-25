@@ -176,8 +176,9 @@ toc:  true
 
 [comment]: <> (Align to the center by adding `class="align-center"`:)
 
- ![文*博*园](https://github.com/xianyu2hao/Personal-blog.github.io/raw/master/wenboyuan.png) <center>
+![文*博*园](https://github.com/xianyu2hao/Personal-blog.github.io/raw/master/wenboyuan.png)
 
+[comment]: <> ( 这里的图片路径需要将github上打开图片XX.XX.XX.png，复制路径黏贴在这，将blob改为raw不知道原因。)
 
 ### 自学目录
 
