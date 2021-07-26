@@ -1,3 +1,4 @@
+encoding: UTF-8
 # Setup
 title: JeryZhang的博客
 description: 一个简约、漂亮、大气以及花里胡哨的学习博客
@@ -56,6 +57,6 @@ sass:
 
 # Specify the author for blog posts
 author: Jery zhang
-  name: student Zhang
+  name: blog
   url: https://xianyu2hao.github.io
   email: 3148541956@qq.com
